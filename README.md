@@ -1,10 +1,10 @@
-EC 602 Mini Project 2
+					EC 602 Mini Project 2
 								Cybersecurity
 
-Blockchain has been in a hot discussion in the past few years and that "enthusiasm" does not seem to be relieved at all. First being introduced for the rise of Bitcoin, blockchain has been adapted more in security area, especially there is a third parties involved. 
+	Blockchain has been in a hot discussion in the past few years and that "enthusiasm" does not seem to be relieved at all. First being introduced for the rise of Bitcoin, blockchain has been adapted more in security area, especially there is a third parties involved. 
 
-1.	Introduction
-Let us take a brief look at blockchain technology. To understand what blockchain is and what it could do, the concept “decentralization” should be introduced first. “decentralization is the process by which the activities of an organization, particularly those regarding planning and decision making, are distributed or delegated away from a central, authoritative location or group. Concepts of decentralization have been applied to group dynamics and management science in private businesses and organizations, political science, law and public administration, economics, money and technology.” This is the definition of decentralization, quoted from Wikipedia. Blockchain technology is an application of decentralization which create a series of network connect nodes and each of them is distribute. Every time a person commits changes in their “space”, the information is recorded and no one could edit it.
+	1.	Introduction
+	Let us take a brief look at blockchain technology. To understand what blockchain is and what it could do, the concept “decentralization” should be introduced first. “decentralization is the process by which the activities of an organization, particularly those regarding planning and decision making, are distributed or delegated away from a central, authoritative location or group. Concepts of decentralization have been applied to group dynamics and management science in private businesses and organizations, political science, law and public administration, economics, money and technology.” This is the definition of decentralization, quoted from Wikipedia. Blockchain technology is an application of decentralization which create a series of network connect nodes and each of them is distribute. Every time a person commits changes in their “space”, the information is recorded and no one could edit it.
 
 2. Summary of the reference
 	Nowadays blockchain has spread beyond finance, which is the are that it initially been applied.
