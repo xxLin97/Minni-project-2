@@ -1,4 +1,7 @@
-Cybersecurity
+EC601 Mini Project 2
+Group 2 Cybersecurity
+Zhichao Lu
+October 15, 2019
 
 Blockchain has been in a hot discussion in the past few years and that "enthusiasm" does not seem to 
 be relieved at all. First being introduced for the rise of Bitcoin, blockchain has been adapted more in security area, especially there is a third parties involved. 
