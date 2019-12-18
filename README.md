@@ -35,5 +35,20 @@ I would recommend that a enterprise user to uses Hyperledger and Enterprise Ethe
 
 Storage systems based on the idea of decentralization and blockchain technology has been briefly presented. The open sourced applications also provide solutions on pros and cons of blockchain. The key is to Cybersecurity based on blockchain still needs further analysis and there will be more advantages and drawbacks appears in the future works.
 
+6. Reference
 [1] G.Karame and E.Androulaki, Bitcoin and Blockchain Security, Artech House Information Security and Privacy Series, 2016.
 [2] R. J. Krawiec, D. Housman, M. White et al., “Blockchain: Opportunities for health care,” in Proceedings of the NIST Workshop Blockchain Healthcare,pp.1–16,2016.
+
+7. Summary of group members' report
+
+Haoyang Wang
+
+Haoyang mainly describe acybersecurity from its'most primary starting point, which is how do two people exchange message in a secure way.There are several method that we could use to ensure the confidentiality of their message. PGP is a famous encryption program developed by Phil Zimmermann in 1991. It was still active in the dild of email encrption. However, nowadays, people have found some weaknesses in it, like it doesn’t have forward secrecy and can’t resist censorship. TLS, A.K.A Transport Layer Security is widely used as a transport layer security protocol that could not only be used on web security, but also protect its' model on the internet. TLS has advantage of full featured and complete documentation and also drawbacks of not fast and light enough for implementation.
+
+Kefan Zhang
+
+Kefan introduce an opensourced security tool  called Apache Shiro which is a reliable, eazy-to-undersatnd framework to work with. It is flexible, easy to configure, supports cloud, desktop and mobile platform. Therefore it could work i9n many different environment, which is a really essential point for user to choose it. However it has not get into virtual machine security because Shiro does not natively support 'multi-stage' authentication.
+
+Charles Thao
+
+Charles talks about Caja compiler, a tool for making third HTML, CSS and JAVAsript embedding secure. Firstly, Caja is an opensoured tool, therefore we could use object-capability security model for flexible policies. It also has some new Javasript feature and extends safely JSON with code, which is done by websites that compiles JavaScript using Caja. But it still has drawbacks, such as it is outdated and not well maintained. 
